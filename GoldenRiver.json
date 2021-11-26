@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "name": "GoldenRiver",
         "author": "Lanney",
-        "updater": ""
+        "updater": "https://raw.githubusercontent.com/ahar2611/GoldenRiver/main/GoldenRiver.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/913710267404271696\/443058.jpg",
